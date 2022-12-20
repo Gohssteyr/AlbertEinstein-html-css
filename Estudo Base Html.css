@@ -1,0 +1,32 @@
+/* class */
+
+.albertft1 {
+  background-image: url(albert.jpeg);
+  position: flex;
+  height: 428px;
+  width: 685px;
+  margin: 25px 300px 25px 300px;
+
+}
+.Linha_do_tempo {
+  color: aliceblue;
+  font-size: 18px;
+
+}
+/* tags */
+body {
+  background-color: black;
+}
+
+h1 {
+  color: aliceblue;
+  text-align: center;
+  font-size: 45px;
+}
+
+/* id */
+#Fraselegenda {
+  color: aliceblue;
+  text-align: center;
+  font-size: 45px;
+}
